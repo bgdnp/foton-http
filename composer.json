@@ -1,0 +1,17 @@
+{
+  "name": "bgdnp/foton-http",
+  "description": "Simple PHP Http handling",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bogdan Petkovic",
+      "email": "bogdanpetkovic@outlook.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Bgdnp\\FotonHttp\\": "src/"
+    }
+  }
+}
