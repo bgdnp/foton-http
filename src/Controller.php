@@ -1,6 +1,6 @@
 <?php
 
-namespace Bgdnp\Foton\Http;
+namespace Bgdnp\FotonHttp;
 
 abstract class Controller
 {
